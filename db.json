@@ -72,6 +72,60 @@
       ],
       "release_date": "29/03/2019",
       "runtime": 201
+    },
+    {
+      "id": 5,
+      "imdbRating": 5.8,
+      "title": "Tom Clancy's Without Remorse",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Without_Remorse_poster.jpg",
+      "overview": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+      "director": "Stefano Sollima",
+      "cast": [
+        "Micheal b. Jordan",
+        "Jamie Bell",
+        "Jodie Turner Smith",
+        "Jacob Scipio",
+        "Jack Kesy",
+        "many more"
+      ],
+      "release_date": "29/04/2021",
+      "runtime": 149
+    },
+    {
+      "id": 6,
+      "imdbRating": 6.9,
+      "title": "Black Widow",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "director": "Cate Shortland",
+      "cast": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "Rachel Weisz",
+        "Ray winstone",
+        "Ever Anderson",
+        "many more"
+      ],
+      "release_date": "09/07/2021",
+      "runtime": 214
+    },
+    {
+      "id": 7,
+      "imdbRating":5.5,
+      "title": "Jolt",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTFmNTI1NGQtYTg1MS00MTg2LWI2NGMtNzdhMTk0OTk1MmZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "overview": "Lindy is an acid-tongued woman with rage issues who controls her temper by shocking herself with an electrode vest. One day she makes a connection with Justin, who gives her a glimmer of hope for a shock-free future, but when he’s murdered she launches herself on a revenge-fueled rampage in pursuit of his killer.",
+      "director": "Tanya Wexler",
+      "cast": [
+        "Kate Beckinsale",
+        "Stanley Tucci",
+        "Bobby Cannavale",
+        "Jay Courtney",
+        "Laverne Cox",
+        "many more"
+      ],
+      "release_date": "29/07/2021",
+      "runtime": 131
     }
   ],
   "showtimes": [
