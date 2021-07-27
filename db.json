@@ -1,0 +1,133 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "imdbRating": 6.5,
+      "title": "Ad Astra",
+      "poster": "https://www.themoviedb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "overview": "Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father and unravel a mystery that threatens the survival of our planet. His journey will uncover secrets that challenge the nature of human existence and our place in the cosmos.",
+      "director": "James Gray",
+      "cast": [
+        "Brad Pitt",
+        "Ruth Negga",
+        "Kimberly Elise",
+        "Donnie Keshawarz",
+        "Bobby Nish",
+        "John Finn",
+        "many more"
+      ],
+      "release_date": "29/08/2019",
+      "runtime": 204
+    },
+    {
+      "id": 2,
+      "imdbRating": 8,
+      "title": "Her",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+      "overview": "Theodore Twombly, an introverted writer, buys an Artificial Intelligence system to help him write. However, when he finds out about the AI's ability to learn and adapt, he falls in love with it.",
+      "director": "Spike Jonze",
+      "cast": [
+        "Artt Butler",
+        "Joaquin Phonenix",
+        "Gabe Gomez",
+        "Amy Adams",
+        "Chris Pratt",
+        "many more"
+      ],
+      "release_date": "14/02/2019",
+      "runtime": 206
+    },
+    {
+      "id": 3,
+      "imdbRating": 8.4,
+      "title": "Joker",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Joker_%282019_film%29_poster.jpg/220px-Joker_%282019_film%29_poster.jpg",
+      "overview": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos.",
+      "director": "Todd Phillips",
+      "cast": [
+        "Joaquin Phoenix",
+        "Brett Cullen",
+        "Bill Camp",
+        "Leigh Gill",
+        "Murphy Guyer",
+        "many more"
+      ],
+      "release_date": "02/10/2019",
+      "runtime": 202
+    },
+    {
+      "id": 4,
+      "imdbRating": 6.8,
+      "title": "US",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Us_%282019%29_theatrical_poster.png/220px-Us_%282019%29_theatrical_poster.png",
+      "overview": "Adelaide Wilson and her family are attacked by mysterious figures dressed in red. Upon closer inspection, the Wilsons realise that the intruders are exact lookalikes of them.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Lupita Nyong'o",
+        "Elisabeth Moss",
+        "Shahadi Wright Joseph",
+        "Cali Sheldon",
+        "Dustin Ybarra",
+        "many more"
+      ],
+      "release_date": "29/03/2019",
+      "runtime": 201
+    }
+  ],
+  "showtimes": [
+    {
+      "movieId": 1,
+      "showtimes": [
+        {
+          "date": "29/08/2019",
+          "times": [
+            {
+              "type": "3D",
+              "time": "10:20 AM"
+            },
+            "1:00 PM",
+            {
+              "type": "3D",
+              "time": "2:00 PM"
+            },
+            "4:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "movieId": 2,
+      "showtimes": [
+        {
+          "date": "14/02/2019",
+          "times": ["12:45 PM", "4:20 PM", "6:30 PM"]
+        }
+      ]
+    },
+    {
+      "movieId": 3,
+      "showtimes": [
+        {
+          "date": "02/10/2019",
+          "times": ["10:20 AM", "12:00 PM", "1:45 PM"]
+        }
+      ]
+    },
+    {
+      "movieId": 4,
+      "showtimes": [
+        {
+          "date": "29/03/2019",
+          "times": [
+            {
+              "type": "3D",
+              "time": "10:20 AM"
+            },
+            "11:00 AM",
+            "4:00 PM"
+          ]
+        }
+      ]
+    }
+  ]
+}
